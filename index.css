@@ -1,0 +1,56 @@
+.container{
+  width: 420px;
+  background-color: rgb(15, 14, 14); 
+  margin: auto;
+  text-align: center;
+  padding: 11px;
+  margin-top: 65px;
+  border: 1px solid rgb(230, 186, 43);
+  border-radius:10px;
+   
+}
+.container input{
+  width: 90%;
+  padding: 11px;
+  border: 2px solid black;
+  font-size: 20px;
+  /* margin-top: 11px; */
+  /* margin-top: 11px; */
+  
+  border-radius: 3px;
+  background-color: #ffffff;
+  font-family:'Times New Roman', Times, serif;
+  caret-color: rgb(0, 149, 255);
+  caret-shape:bar;
+  
+}
+  
+.container button{
+  width: 90px;
+  padding: 7px;
+  margin: 5px;
+  border: none;
+  font-size: 20px;
+  background-color: #c2dbdd7b;
+  border-radius: 15px;
+  cursor: pointer;
+  border: 0.5px solid rgb(223, 191, 64);
+  color: #ffffff;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.container .equal{
+  background-color: rgb(0, 162, 255);
+  color: white;
+}
+h1{
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  margin: 40px;
+  color:aliceblue;
+  font-size: 40px;
+  text-shadow: 10px 10px 10px #000000;
+}
+body{
+  background-image: url(https://www.shutterstock.com/shutterstock/photos/733632979/display_1500/stock-photo-abstract-background-the-camera-flies-past-a-large-number-of-mathematical-formulas-on-a-dark-733632979.jpg);
+  
+}
